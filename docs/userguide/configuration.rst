@@ -140,7 +140,7 @@ have been moved into a new  ``task_`` prefix.
 ``CELERY_DEFAULT_RATE_LIMIT``              :setting:`task_default_rate_limit`
 ``CELERY_DEFAULT_ROUTING_KEY``             :setting:`task_default_routing_key`
 ``CELERY_EAGER_PROPAGATES``                :setting:`task_eager_propagates`
-``CELERY_IGNORE_RESULT``                   :setting:`task_ignore_result`
+``CELERY_TASK_IGNORE_RESULT``                   :setting:`task_ignore_result`
 ``CELERY_PUBLISH_RETRY``                   :setting:`task_publish_retry`
 ``CELERY_PUBLISH_RETRY_POLICY``            :setting:`task_publish_retry_policy`
 ``CELERY_QUEUES``                          :setting:`task_queues`
